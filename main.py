@@ -11,7 +11,8 @@
 # 3) Поиск по фамилии
 
 from interface import *
-file_path = 'HomeWork_8/file.txt'
+
+file_path = 'file.txt'
 flag = True
 while(flag):
     flag = menuHello(file_path)

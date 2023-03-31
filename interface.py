@@ -6,9 +6,7 @@ def menuHello(path):
     print("1.Добавить")
     print("2.Вывести всех")
     print("3.Поиск по фамилии")
-    print("4.Изменить")
-    print("5.Удалить")
-    print("6.Выход")
+    print("4.Выход")
     
     userInput = int(input())
     if userInput == 1:
